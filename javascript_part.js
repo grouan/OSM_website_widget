@@ -1,4 +1,4 @@
-/* // Insert this code just after the widget map (html_part.html) inside <script></script> // */
+/* // Insert this code just after the widget map (body_part.html) inside <script></script> HTML Tag // */
 
 /* Map Settings */
 
