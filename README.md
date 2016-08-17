@@ -1,6 +1,6 @@
 # OSM Website Widget
-Insert a custom Open Street Map (OSM) widget map pointing to a specified localization : great for "Contact" page, for example !
-You don't need to code anything, neither to be a great designer : simply copy-paste these little pieces of code at the specified place :) And it's free and Open Source !
+Insert <b>a custom Open Street Map (OSM) widget map pointing to a specified location</b>.<br />
+You don't need to code anything, neither to be a great designer : simply copy-paste these little pieces of code at the specified place :) You'll just need to create a MapBox account to use great background design. It's free and Open Source, perfect for a Contact Page, a Column or Widget... !
 
 ## /// What you need
 
