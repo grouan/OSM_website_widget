@@ -18,10 +18,11 @@ Same method. Obviously, you can use the same coordinates as your marker. Then, r
 4. Choose the type of background you want to use for your widget : light / dark / streets / outdoors / satellite... and set <code>id: 'mapbox.streets'</code> inside <code>javascript_part.js</code> code.
 
 ## /// How it works
-1. Insert <code>head_part.html</code> code inside the <head></head> Tags of your website. Thanks to keep credit's mentions.
-2. Insert <code>css_part.css</code> code into <style></style> Tags inside <head></head> Tags just after <code>head_part.html</code>.
-3. Insert <code>body_part.html</code> where you want to display your map.
-4. Insert <code>javascript_part.js</code> inside <script></script> Tags, just after <code>body_part.html</code>
+1. Insert <code>head_part.html</code> code inside the <code><head></head></code> Tags of your website. Thanks to keep credit's mentions :)
+2. Insert <code>css_part.css</code> code into <style></style> Tags inside <code><head></head></code> Tags just after <code>head_part.html</code> code,
+3. Insert <code>body_part.html</code> where you want to display your map,
+4. Insert <code>javascript_part.js</code> inside <script></script> Tags, just after <code>body_part.html</code>,
+5. Brew a delicious tea <i class="fa fa-coffee fa-lg" aria-hidden="true"></i> & enjoy !
 
 <hr />
 
