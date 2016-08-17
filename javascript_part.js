@@ -18,4 +18,4 @@
 			id: 'mapbox.streets' /* set MapBox's map background : mapbox.light / dark / streets / outdoors / satellite */
 		}).addTo(mymap);
 
-		L.marker([XXX-LATITUDE-XXX, XXX-LONGITUDE-XXX]).addTo(mymap); /* set your localization's GPS Coordinates : [LAT,LON] */
+		L.marker([XXX-LATITUDE-XXX, XXX-LONGITUDE-XXX]).addTo(mymap); /* set your location's GPS Coordinates : [LAT,LON] */
