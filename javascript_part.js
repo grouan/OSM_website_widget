@@ -3,7 +3,7 @@
 /* Map Settings */
 
 		var mymap = L.map('my_osm_widget_map', { /* use the same name as your <div id=""> */
-    			center: [47.697992, -2.804822], /* set the center of the displayed map */
+    			center: [XXX-LATITUDE-CENTER-XXX, XXX-LONGITUDE-CENTER-XXX], /* set the center of the displayed map */
     			zoom: 17, /* define the zoom level */
     			zoomControl: false, /* false = no zoom control buttons displayed */
 			scrollWheelZoom: false /* false = scrolling zoom on the map is locked */
