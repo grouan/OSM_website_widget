@@ -1,11 +1,11 @@
-/* // Insert this in the <head></head> of your website
+/* // Insert this code in the <head></head> of your website inside <style></style>
 or inside a specified CSS file
-or directly inside the <div id=""> with style="" attribute // */
+or directly inside the <div id="">, into style="" attribute // */
 
 #my_osm_widget_map { /* use the same name as <div id=""> */
 	width: 100%; /* important! if you need full width display */
 	height: 400px;
-  margin: 0;
+	margin: 0;
 	border-radius: 5px;
 	/* customize the design according to your needs... */
 }
